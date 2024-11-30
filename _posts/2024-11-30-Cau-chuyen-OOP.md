@@ -1,5 +1,5 @@
 ---
-title: "My First's Blog Site"
+title: "OOP của tôi"
 date: 2024-11-30 08:50:00 +0700
 tags: [College]
 ---
